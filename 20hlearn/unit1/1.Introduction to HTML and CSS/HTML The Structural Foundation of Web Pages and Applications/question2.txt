@@ -1,0 +1,8 @@
+Review: Common HTML tags
+
+1.You can place an <img> tag inside an <a> tag to turn the image into a link.-True
+2.What is the alt attribute on an <img> tag for?-It describes an image.
+3.A <p> tag is used to:-commence a paragraph of text.
+4.What two attributes should you put on an <img> tag?- src and alt
+5.What is the purpose of an href attribute on an anchor tag?- To tell the browser where we want the link to go.
+

@@ -1,0 +1,7 @@
+What instructs the browser the version of HTML you're using?-D
+HTML provides the _____ layer of a web page.-D:content
+What element provides general information about the document, like the title and links to style sheets?-C
+Which of the following describes the global structure of a web page?-B
+Where do you include the content you want to display in the browser?-A
+A _____ provides meaning to text in a document, using instructions that describe how text should be structured and formatted.-B: Markup language
+

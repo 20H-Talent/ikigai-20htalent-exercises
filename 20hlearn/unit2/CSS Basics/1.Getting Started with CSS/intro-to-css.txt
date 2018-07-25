@@ -1,0 +1,7 @@
+1.Mozilla Developer Network, Web Platform Docs, and W3C are helpful CSS resources - B
+2."CSS" stands for: - D
+3.Was HTML meant to be a presentational language? - A
+4.CSS was introduced in: - A
+5.The latest evolution of CSS is: - C
+6.CSS is what handles the _ _ _ _ _ layer of a web page. - D
+7.Are we required to memorize every CSS selector, property and value available? - B

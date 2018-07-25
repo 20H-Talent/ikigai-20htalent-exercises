@@ -1,0 +1,13 @@
+1.Which paths work only when a website is uploaded to a web server or when you have a local web server running on your computer?
+B
+2.Which of the following is an example of an HTML comment?
+c
+3.You can target any HTML element and change its appearance (like size, color and position) with:
+D
+4.Which characters are reserved for use in HTML code only?
+a
+5.The ___ attribute gives an element a unique identifier that can be used to navigate to a specific section of a page.
+b
+6.What type of file path is the following link using? 
+a
+

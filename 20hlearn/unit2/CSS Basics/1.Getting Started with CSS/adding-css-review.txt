@@ -1,0 +1,14 @@
+1.We write inline styles directly inside an element's tag, using which of the 
+following attributes? - C
+2.Please fill in the correct answer in each blank provided below. - style
+3.What is a downside to using internal styles on large projects? - C
+4.Which method allows us to bring one or more style sheets into another style sheet? 
+- B
+5.What are the three methods for adding CSS to a page? - C
+6.What file extension do we need to use when creating a style sheet? - B
+7.What attribute specifies the relationship between the current HTML document and the 
+linked document? - B
+8.With an _ _ _ _ _ style sheet, we can change the look of an entire website with one 
+file. - C
+
+

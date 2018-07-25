@@ -1,0 +1,7 @@
+You have a stylesheet called styles.css in a folder called css. What file path would you put in the href? -B
+2false
+3c
+4.Use the correct html attribute on the <a> to link a new web page. 
+<a href=”new-page.html”>This is a link to my new web page. </a>
+5.The tags you need to set up a basic web page from scratch are:C - <!doctype html>, <html>, <head>, <body>
+

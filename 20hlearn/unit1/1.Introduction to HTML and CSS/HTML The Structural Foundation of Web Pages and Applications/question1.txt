@@ -1,0 +1,8 @@
+Review: Parts of an HTML Page
+
+1.All of the code for your web page, including the <!doctype>, must go between <html></html> tags-False
+2.The <head></head> tags are where we put information you don’t see in the browser, like the page's title, and links to JavaScript and CSS files-True
+3.Which tags commonly appear inside the part of a web page that you see in the browser window?-header, main, footer.
+4.The bulk of the content of our web page goes in the _____ section.-body
+5.Which of the code examples below tells the browser that the contents of the document are HTML?-<!doctype html>
+

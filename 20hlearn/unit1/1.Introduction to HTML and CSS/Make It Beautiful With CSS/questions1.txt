@@ -1,0 +1,6 @@
+1.Margin and padding are used to increase and decrease the amount of space around an element.-True
+2.Which of the following is an example of a CSS property?-border-radius
+3.Given this CSS rule, what will the browser do? - It will make the font color of every paragraph tag on the page blue.
+4.If you forget to enclose your CSS styles in curly braces { }, the browser will: Fail to apply the styles to your web page.
+5.If you have a <p> element with a class called “left-column”, which of the following selectors would you use to style it in the CSS?-  .left-column
+
